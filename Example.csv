@@ -1,0 +1,3 @@
+#TYPE Selected.GPRegistryPolicy,,,
+path,property,type,value
+HKLM:\SYSTEM\CurrentControlSet\Control\BitLocker,PreventDeviceEncryption,REG_DWORD,1
